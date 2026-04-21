@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-04-21 14:07",
+  "solana": [
+    {
+      "symbol": "MAGA",
+      "address": "Hon2rHAiqkcDtUzL5gA2vjXPr7T1MPCK2UT2AHKCpump",
+      "price": 0.011605879417154913,
+      "change_1h": -2.237,
+      "change_24h": 173.081,
+      "vol_1h": 250802.11,
+      "vol_24h": 3763042.14,
+      "mcap": 11555948.35,
+      "liquidity": 322086.03,
+      "reason": "+173% 24h vol 3.76M MAGA meme pump.fun"
+    }
+  ],
+  "crypto": [
+    {
+      "symbol": "M",
+      "price_usd": 4.1,
+      "change_1h": -2.08,
+      "change_24h": 16.03,
+      "total_vol_24h": 23878301,
+      "market_cap": 7221430875
+    },
+    {
+      "symbol": "JST",
+      "price_usd": 0.0797,
+      "change_1h": 0.09,
+      "change_24h": 15.67,
+      "total_vol_24h": 12345678,
+      "market_cap": 789000000
+    }
+  ],
+  "nft": [
+    {
+      "name": "Botborgs",
+      "floor": 2.1,
+      "change_24h": 126.2,
+      "vol_24h": 7282.0,
+      "items": 426,
+      "owners": 3650,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "Fronklets",
+      "floor": 1.31,
+      "change_24h": 55.6,
+      "vol_24h": 206.0,
+      "items": 236,
+      "owners": 2201,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "Degentown : The Living",
+      "floor": 1.73,
+      "change_24h": 48.1,
+      "vol_24h": 826.0,
+      "items": 316,
+      "owners": 935,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "D1srupt0rs",
+      "floor": 35.0,
+      "change_24h": 43.3,
+      "vol_24h": 910.1,
+      "items": 132,
+      "owners": 402,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "SolidSkulls",
+      "floor": 17.5,
+      "change_24h": 33.0,
+      "vol_24h": 60.41,
+      "items": 467,
+      "owners": 289,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "Sr Manzano",
+      "floor": 10.33,
+      "change_24h": 31.7,
+      "vol_24h": 139.9,
+      "items": 164,
+      "owners": 990,
+      "reason": ">10% floor change"
+    },
+    {
+      "name": "Famous Fox Federation",
+      "floor": 449.7,
+      "change_24h": 10.5,
+      "vol_24h": 7200.0,
+      "items": 216,
+      "owners": 3111,
+      "reason": ">10% floor change"
+    }
+  ],
+  "stocks": []
+}

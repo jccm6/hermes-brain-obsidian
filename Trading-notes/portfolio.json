@@ -1,0 +1,22 @@
+{
+  "cash": 35990.4,
+  "positions": {
+    "MAGA": {
+      "qty": 775262.233614,
+      "avg_price": 0.011605879417154913,
+      "current_price": 0.011605879417154913
+    }
+  },
+  "total_pnl": 0,
+  "trades": [
+    {
+      "action": "buy",
+      "symbol": "MAGA",
+      "qty": 775262.2336141494,
+      "price": 0.011605879417154913,
+      "reason": "173.1% pump vol 3.8M +173% 24h vol 3.76M MAGA meme pump.fun",
+      "timestamp": "2026-04-21T14:07:47.709795"
+    }
+  ],
+  "last_update": "2026-04-21 14:07"
+}
